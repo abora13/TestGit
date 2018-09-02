@@ -1,7 +1,7 @@
 
-def m():
+def mm():
 	pass
 def main():
-	m()
+	mm()
 	print("Hello world!")
 	
