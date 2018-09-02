@@ -5,3 +5,4 @@ def f():
 def main():
 	f()
 	print("Hello world!")
+	print("Hi!")
