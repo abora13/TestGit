@@ -1,6 +1,6 @@
 def g():
 	pass
 def main():
-	g()
+	f()
 	print("Hello world!")
 	
